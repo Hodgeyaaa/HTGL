@@ -1,0 +1,73 @@
+@charset "utf-8";
+.layout {
+}
+#container {
+	margin: auto;
+	width: 1000px;
+}
+#header {
+	background-image: url(images/pic.gif);
+	height: 450px;
+}
+#pic1 {
+	background-image: url(images/top2.jpg);
+	float: left;
+	height: 35px;
+	width: 260px;
+}
+.style1 {
+	float: left;
+	margin-top: 10px;
+}
+
+#pic2 {
+	background-image: url(images/r1.jpg);
+	float: left;
+	height: 724px;
+	width: 602px;
+}
+#pic3 {
+	background-image: url(images/top3.jpg);
+	float: left;
+	height: 35px;
+	width: 260px;
+}
+
+
+>>>>>>>>>>>>>>>>>>5-1<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+#container {margin: auto;
+	width: 1000px;
+}
+#header {
+	background-image: url(images/header_shouye.jpg);
+	height: 196px;
+}
+#nav {
+	background-image: url(images/nav_bg_hover2.jpg);
+	height: 24px;
+}
+#pic1 {
+	background-image: url(images/testimonial_icon.jpg);
+	float: left;
+	height: 52px;
+	width: 205px;
+	margin-right: 25px;
+}
+#pic2 {
+	float: left;
+	width: 140px;
+	height: 800px;
+}
+#pic3 {
+	background-image: url(images/testimonial_zhidao.jpg);
+	float: left;
+	height: 30px;
+	width: 465px;
+	margin-left: 40px;
+}
+#footer {
+	background-image: url(images/bg.gif);
+	clear: both;
+	height: 15px;
+}
